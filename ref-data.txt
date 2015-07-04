@@ -2,6 +2,6 @@
 
 Hameburger menu => http://callmenick.com/post/animating-css-only-hamburger-menu-icons
 
-
+image thumbnail => https://stupid-studio.com/
 
 // problem ref //
