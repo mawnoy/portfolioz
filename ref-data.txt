@@ -5,3 +5,5 @@ Hameburger menu => http://callmenick.com/post/animating-css-only-hamburger-menu-
 image thumbnail => https://stupid-studio.com/
 
 // problem ref //
+
+object-fit strech problem => http://stackoverflow.com/questions/30006545/css-problems-when-using-object-fit-and-transform-together-on-webkit
